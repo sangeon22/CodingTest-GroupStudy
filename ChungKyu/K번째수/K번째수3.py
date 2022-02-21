@@ -1,10 +1,10 @@
 
 
-a = [1.2,2.5,3.7,4.6]
+# a = [1.2,2.5,3.7,4.6]
 
 
-a= list(map(int,a))
-print(a)
+# a= list(map(int,a))
+# print(a)
 # for i in range(len(a)):
 #     a[i] = int(a[i])
 #
