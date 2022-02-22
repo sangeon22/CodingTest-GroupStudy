@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c02835e0-3316-4808-9f35-2f430470b1ff" name="Changes" comment="&#10;&lt;2월 19일 &gt;&#10;K번째수&#10;가장 큰수">
-      <change afterPath="$PROJECT_DIR$/ChungKyu/H-Index/Hindex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="c02835e0-3316-4808-9f35-2f430470b1ff" name="Changes" comment="&#10;&lt;2월 21일 &gt;&#10;K번째수&#10;가장 큰수&#10;Hindex.py">
+      <change afterPath="$PROJECT_DIR$/ChungKyu/H-Index/Hindex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChungKyu/H-Index/Hindex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChungKyu/조이스틱/조이스틱.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChungKyu/조이스틱/조이스틱2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChungKyu/H-Index/Hindex.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChungKyu/H-Index/Hindex.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ChungKyu/K번째수/K번째수.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChungKyu/K번째수/K번째수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChungKyu/K번째수/K번째수2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChungKyu/K번째수/K번째수2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChungKyu/K번째수/K번째수3.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChungKyu/K번째수/K번째수3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +43,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ChungKyu/K번째수" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ChungKyu/H-Index" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -50,14 +51,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ChungKyu/H-Index" />
       <recent name="$PROJECT_DIR$/ChungKyu/K번째수" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/ChungKyu/기능개발" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.K번째수3">
-    <configuration name="신규아이디추천" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Hindex3">
+    <configuration name="기능개발" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="GithubCodingStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,12 +67,78 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/bin/python2.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ChungKyu/신규아이디추천" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ChungKyu/기능개발" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ChungKyu/신규아이디추천/신규아이디추천.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ChungKyu/기능개발/기능개발.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Hindex" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="GithubCodingStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ChungKyu/H-Index" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ChungKyu/H-Index/Hindex.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Hindex2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="GithubCodingStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ChungKyu/H-Index" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ChungKyu/H-Index/Hindex2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Hindex3" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="GithubCodingStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ChungKyu/H-Index" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ChungKyu/H-Index/Hindex3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,32 +191,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="기능개발" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="GithubCodingStudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python2.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ChungKyu/기능개발" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ChungKyu/기능개발/기능개발.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.신규아이디추천" />
+      <item itemvalue="Python.기능개발" />
+      <item itemvalue="Python.Hindex2" />
+      <item itemvalue="Python.Hindex" />
       <item itemvalue="Python.K번째수2" />
       <item itemvalue="Python.K번째수3" />
+      <item itemvalue="Python.Hindex3" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -166,7 +215,10 @@
       <workItem from="1645101742958" duration="2513000" />
       <workItem from="1645105477815" duration="1528000" />
       <workItem from="1645268867876" duration="6773000" />
-      <workItem from="1645429147285" duration="738000" />
+      <workItem from="1645429147285" duration="956000" />
+      <workItem from="1645508086165" duration="2321000" />
+      <workItem from="1645529357394" duration="604000" />
+      <workItem from="1645530771166" duration="6500000" />
     </task>
     <task id="LOCAL-00001" summary="First - commit to Master">
       <created>1645067991720</created>
@@ -189,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645274181864</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="&#10;&lt;2월 21일 &gt;&#10;K번째수&#10;가장 큰수&#10;Hindex.py">
+      <created>1645444216049</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1645444216049</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,11 +269,15 @@
     <MESSAGE value="First - commit to Master" />
     <MESSAGE value="First - commit to Master&#10;&#10;&lt;2월 17일 &gt;&#10;기능개발py &#10;신규아이디py" />
     <MESSAGE value="&#10;&lt;2월 19일 &gt;&#10;K번째수&#10;가장 큰수" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;&lt;2월 19일 &gt;&#10;K번째수&#10;가장 큰수" />
+    <MESSAGE value="&#10;&lt;2월 21일 &gt;&#10;K번째수&#10;가장 큰수&#10;Hindex.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;&lt;2월 21일 &gt;&#10;K번째수&#10;가장 큰수&#10;Hindex.py" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Codingtest_Study$testCK.coverage" NAME="testCK Coverage Results" MODIFIED="1645067961966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChungKyu" />
+    <SUITE FILE_PATH="coverage/Codingtest_Study$Hindex.coverage" NAME="Hindex Coverage Results" MODIFIED="1645508309437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChungKyu/H-Index" />
+    <SUITE FILE_PATH="coverage/Codingtest_Study$Hindex3.coverage" NAME="Hindex3 Coverage Results" MODIFIED="1645538098979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChungKyu/H-Index" />
     <SUITE FILE_PATH="coverage/Codingtest_Study$.coverage" NAME="신규아이디추천 Coverage Results" MODIFIED="1645106960305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChungKyu/신규아이디추천" />
+    <SUITE FILE_PATH="coverage/Codingtest_Study$Hindex2.coverage" NAME="Hindex2 Coverage Results" MODIFIED="1645537846751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChungKyu/H-Index" />
     <SUITE FILE_PATH="coverage/Codingtest_Study$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1645067945725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SangEon" />
     <SUITE FILE_PATH="coverage/Codingtest_Study$K.coverage" NAME="K번째수2 Coverage Results" MODIFIED="1645274536897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChungKyu/K번째수" />
     <SUITE FILE_PATH="coverage/Codingtest_Study$K3.coverage" NAME="K번째수3 Coverage Results" MODIFIED="1645274785841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChungKyu/K번째수" />
