@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c02835e0-3316-4808-9f35-2f430470b1ff" name="Changes" comment="H-index">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c02835e0-3316-4808-9f35-2f430470b1ff" name="Changes" comment="Programmers - Printer Push">
+      <change afterPath="$PROJECT_DIR$/SangEon/BridgeTruck/ProgrammersBridgeTruck.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +56,7 @@
       <recent name="$PROJECT_DIR$/ChungKyu/기능개발" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ProgrammersPriner">
+  <component name="RunManager" selected="Python.ProgrammersBridgeTruck">
     <configuration name="신규아이디추천" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="GithubCodingStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,6 +167,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ProgrammersBridgeTruck" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GithubCodingStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SangEon/BridgeTruck" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SangEon/BridgeTruck/ProgrammersBridgeTruck.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ProgrammersPriner" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GithubCodingStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -241,9 +263,11 @@
       <item itemvalue="Python.hIndex" />
       <item itemvalue="Python.Hindex (1)" />
       <item itemvalue="Python.ProgrammersPriner" />
+      <item itemvalue="Python.ProgrammersBridgeTruck" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ProgrammersBridgeTruck" />
         <item itemvalue="Python.ProgrammersPriner" />
         <item itemvalue="Python.Hindex" />
         <item itemvalue="Python.Hindex (1)" />
@@ -268,6 +292,7 @@
       <workItem from="1645268867876" duration="6773000" />
       <workItem from="1645429147285" duration="738000" />
       <workItem from="1645593977904" duration="679000" />
+      <workItem from="1645689811824" duration="873000" />
     </task>
     <task id="LOCAL-00001" summary="First - commit to Master">
       <created>1645067991720</created>
@@ -290,7 +315,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645274181864</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Programmers - Printer Push">
+      <created>1645690014889</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1645690014889</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -312,7 +344,8 @@
     <MESSAGE value="First - commit to Master&#10;&#10;&lt;2월 17일 &gt;&#10;기능개발py &#10;신규아이디py" />
     <MESSAGE value="&#10;&lt;2월 19일 &gt;&#10;K번째수&#10;가장 큰수" />
     <MESSAGE value="H-index" />
-    <option name="LAST_COMMIT_MESSAGE" value="H-index" />
+    <MESSAGE value="Programmers - Printer Push" />
+    <option name="LAST_COMMIT_MESSAGE" value="Programmers - Printer Push" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/GithubCodingStudy$K3.coverage" NAME="K번째수3 Coverage Results" MODIFIED="1645529078063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChungKyu/K번째수" />
@@ -323,6 +356,7 @@
     <SUITE FILE_PATH="coverage/Codingtest_Study$.coverage" NAME="신규아이디추천 Coverage Results" MODIFIED="1645106960305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChungKyu/신규아이디추천" />
     <SUITE FILE_PATH="coverage/Codingtest_Study$K3.coverage" NAME="K번째수3 Coverage Results" MODIFIED="1645274785841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChungKyu/K번째수" />
     <SUITE FILE_PATH="coverage/GithubCodingStudy$Hindex.coverage" NAME="Hindex Coverage Results" MODIFIED="1645539766365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SangEon/H-index" />
+    <SUITE FILE_PATH="coverage/GithubCodingStudy$ProgrammersPriner.coverage" NAME="ProgrammersPriner Coverage Results" MODIFIED="1645689980746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SangEon/Printer" />
     <SUITE FILE_PATH="coverage/Codingtest_Study$K.coverage" NAME="K번째수2 Coverage Results" MODIFIED="1645274536897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChungKyu/K번째수" />
     <SUITE FILE_PATH="coverage/GithubCodingStudy$programmersQueueStackCodingTest.coverage" NAME="programmersQueueStackCodingTest Coverage Results" MODIFIED="1645106467102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SangEon" />
   </component>
