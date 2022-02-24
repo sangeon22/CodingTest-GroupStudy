@@ -292,7 +292,7 @@
       <workItem from="1645268867876" duration="6773000" />
       <workItem from="1645429147285" duration="738000" />
       <workItem from="1645593977904" duration="679000" />
-      <workItem from="1645689811824" duration="1803000" />
+      <workItem from="1645689811824" duration="2103000" />
     </task>
     <task id="LOCAL-00001" summary="First - commit to Master">
       <created>1645067991720</created>
@@ -343,7 +343,21 @@
       <option name="project" value="LOCAL" />
       <updated>1645692098970</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Programmers - 프린터 - Push">
+      <created>1645692172428</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1645692172428</updated>
+    </task>
+    <task id="LOCAL-00009" summary="test">
+      <created>1645692242720</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1645692242720</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -368,6 +382,7 @@
     <MESSAGE value="Programmers - Printer Push" />
     <MESSAGE value="Programmers - 다리를 건너는 트럭 Push" />
     <MESSAGE value="Programmers - 프린터 Push" />
+    <MESSAGE value="Programmers - 프린터 - Push" />
     <MESSAGE value="test" />
     <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
