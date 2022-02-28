@@ -9,7 +9,7 @@ def solution(progresses, speeds):
             progresses.pop(0)
             speeds.pop(0)
             count += 1
-            print(count)
+            print (count)
         else:
             if count > 0:
                 answer.append(count)
