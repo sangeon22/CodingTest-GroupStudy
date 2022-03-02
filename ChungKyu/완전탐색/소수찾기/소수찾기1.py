@@ -8,7 +8,7 @@ def primenumber1(x):
             return False
         return True
 
-print(primenumber1(10))
+print(primenumber1(7))
 
 
 

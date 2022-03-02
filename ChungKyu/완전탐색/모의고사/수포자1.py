@@ -2,8 +2,9 @@ def solution(answers):
     stu_a = [1, 2, 3, 4, 5]
     stu_b = [2, 1, 2, 3, 2, 4, 2, 5]
     stu_c = [3, 3, 1, 1, 2, 2, 4, 4, 5, 5]
-    answer = []
+    answer = [1,]
     result = [0, 0, 0]
+    
 
 
     # [0,1],[1,2],[2,3],[3,4],[4,5]
@@ -19,5 +20,10 @@ def solution(answers):
     for i in range(len(result)):
         if result[i] == maxvalue:
             answer.append(i+1)
+
+
+    # for idx, s in enumerate(result):
+    #     if s == max(result):
+    #         result.append(i+1)
 
     return answer
