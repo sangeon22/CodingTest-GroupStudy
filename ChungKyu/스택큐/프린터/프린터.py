@@ -5,6 +5,7 @@ def solution(priorities, location):
     turn = 0
     while printer:
         job = printer.pop(0)
+
         #2. 나보다 중요한  job이 있으면 뒤에 넣는다
         if any(job[1] < other_job[1] for other_job in printer):
             printer.append(job)
@@ -17,4 +18,4 @@ def solution(priorities, location):
 
     return turn
 
-print (solution([2,1,3,2],0))
+print (solution([2,1,3,2],2))

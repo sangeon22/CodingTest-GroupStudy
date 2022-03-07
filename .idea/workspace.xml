@@ -5,18 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c02835e0-3316-4808-9f35-2f430470b1ff" name="Changes" comment="&#10;&lt;2월 21일 &gt;&#10;K번째수&#10;가장 큰수&#10;Hindex.py">
-      <change afterPath="$PROJECT_DIR$/ChungKyu/대기업기출문제/네이버/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChungKyu/대기업기출문제/카카오톡/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChungKyu/대기업기출문제/토스/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChungKyu/대기업기출문제/토스/복권.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChungKyu/돌려돌려돌리판.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChungKyu/스택큐/기능개발/기능개발2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChungKyu/해쉬/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChungKyu/해쉬/완주하지못한선수/완주하지못한선수.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChungKyu/해쉬/완주하지못한선수/완주하지못한선수1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChungKyu/해쉬/완주하지못한선수/완주하지못한선수2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChungKyu/스택큐/다리를지나는트럭/다리를 지나는 트럭2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChungKyu/스택큐/주식가격/주식가격.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChungKyu/스택큐/주식가격/주식가격2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChungKyu/스택큐/프린터/프린터2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChungKyu/탐욕법/체육복.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SangEon/SangEon/H-index/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SangEon/SangEon/Printer/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SangEon/SangEon/다리를건너는트럭/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SangEon/SangEon/모의고사/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SangEon/SangEon/소수찾기/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SangEon/SangEon/주식가격/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SangEon/SangEon/카펫/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChungKyu/돌려돌려돌리판.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChungKyu/돌려돌려돌리판.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ChungKyu/스택큐/기능개발/기능개발.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChungKyu/스택큐/기능개발/기능개발.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChungKyu/스택큐/기능개발/기능개발2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChungKyu/스택큐/다리를지나는트럭/다리를지나는트럭.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChungKyu/스택큐/다리를지나는트럭/다리를지나는트럭.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChungKyu/스택큐/프린터/프린터.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChungKyu/스택큐/프린터/프린터.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SangEon/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SangEon/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SangEon/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SangEon/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SangEon/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SangEon/H-index/Hindex.py" beforeDir="false" afterPath="$PROJECT_DIR$/SangEon/H-index/Hindex.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +87,29 @@
       <recent name="$PROJECT_DIR$/ChungKyu/기능개발" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.돌려돌려돌리판">
+  <component name="RunManager" selected="Python.다리를 지나는 트럭2">
+    <configuration name="다리를 지나는 트럭2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="GithubCodingStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ChungKyu/스택큐/다리를지나는트럭" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ChungKyu/스택큐/다리를지나는트럭/다리를 지나는 트럭2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="기능개발" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="GithubCodingStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -164,6 +198,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="주식가격2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GithubCodingStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ChungKyu/스택큐/주식가격" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ChungKyu/스택큐/주식가격/주식가격2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="기능개발2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="GithubCodingStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -186,42 +242,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="완주하지못한선수" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="Hindex (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GithubCodingStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="/usr/bin/python3" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ChungKyu/해쉬/완주하지못한선수" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SangEon/H-index" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ChungKyu/해쉬/완주하지못한선수/완주하지못한선수.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="돌려돌려돌리판" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="GithubCodingStudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python3" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ChungKyu" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ChungKyu/돌려돌려돌리판.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SangEon/H-index/Hindex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -384,6 +418,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="돌려돌려돌리판" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GithubCodingStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ChungKyu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ChungKyu/돌려돌려돌리판.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="프린터" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="GithubCodingStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -398,6 +454,138 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ChungKyu/프린터/프린터.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="프린터" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="GithubCodingStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ChungKyu/스택큐/프린터" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ChungKyu/스택큐/프린터/프린터.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="다리를지나는트럭" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="GithubCodingStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ChungKyu/스택큐/다리를지나는트럭" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ChungKyu/스택큐/다리를지나는트럭/다리를지나는트럭.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="주식가격" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GithubCodingStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ChungKyu/스택큐/주식가격" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ChungKyu/스택큐/주식가격/주식가격.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="돌려돌려돌리판" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="GithubCodingStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ChungKyu" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ChungKyu/돌려돌려돌리판.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="완주하지못한선수" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="GithubCodingStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ChungKyu/해쉬/완주하지못한선수" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ChungKyu/해쉬/완주하지못한선수/완주하지못한선수.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="돌려돌려돌리판" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="GithubCodingStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ChungKyu" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ChungKyu/돌려돌려돌리판.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -429,12 +617,9 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.완주하지못한선수1" />
+      <item itemvalue="Python.다리를 지나는 트럭2" />
       <item itemvalue="Python.__init__" />
-      <item itemvalue="Python.완주하지못한선수" />
       <item itemvalue="Python.기능개발" />
-      <item itemvalue="Python.기능개발2" />
-      <item itemvalue="Python.돌려돌려돌리판" />
       <item itemvalue="Python.소수찾기2" />
       <item itemvalue="Python.소수찾기1" />
       <item itemvalue="Python.Hindex2" />
@@ -442,7 +627,13 @@
       <item itemvalue="Python.K번째수2" />
       <item itemvalue="Python.K번째수3" />
       <item itemvalue="Python.Hindex3" />
+      <item itemvalue="Python.Hindex (1)" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Hindex (1)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -468,7 +659,12 @@
       <workItem from="1646233096645" duration="86000" />
       <workItem from="1646285563630" duration="1544000" />
       <workItem from="1646288276011" duration="583000" />
-      <workItem from="1646453329163" duration="7074000" />
+      <workItem from="1646453329163" duration="7826000" />
+      <workItem from="1646463356296" duration="598000" />
+      <workItem from="1646626973780" duration="1178000" />
+      <workItem from="1646628933206" duration="10290000" />
+      <workItem from="1646653766957" duration="5639000" />
+      <workItem from="1646661946829" duration="330000" />
     </task>
     <task id="LOCAL-00001" summary="First - commit to Master">
       <created>1645067991720</created>
@@ -519,7 +715,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646233109208</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="&#10;&lt;2월 21일 &gt;&#10;K번째수&#10;가장 큰수&#10;Hindex.py">
+      <created>1646462460653</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1646462460653</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -544,16 +747,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="&#10;&lt;2월 21일 &gt;&#10;K번째수&#10;가장 큰수&#10;Hindex.py" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Codingtest_Study$2.coverage" NAME="기능개발2 Coverage Results" MODIFIED="1646460616388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChungKyu/스택큐/기능개발" />
     <SUITE FILE_PATH="coverage/Codingtest_Study$testCK.coverage" NAME="testCK Coverage Results" MODIFIED="1645067961966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChungKyu" />
-    <SUITE FILE_PATH="coverage/Codingtest_Study$Hindex.coverage" NAME="Hindex Coverage Results" MODIFIED="1645508309437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChungKyu/H-Index" />
-    <SUITE FILE_PATH="coverage/Codingtest_Study$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1646285647163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChungKyu/대기업기출문제/토스" />
     <SUITE FILE_PATH="coverage/Codingtest_Study$Hindex3.coverage" NAME="Hindex3 Coverage Results" MODIFIED="1645538098979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChungKyu/H-Index" />
     <SUITE FILE_PATH="coverage/Codingtest_Study$1.coverage" NAME="완주하지못한선수1 Coverage Results" MODIFIED="1646455364899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChungKyu/해쉬/완주하지못한선수" />
-    <SUITE FILE_PATH="coverage/Codingtest_Study$.coverage" NAME="돌려돌려돌리판 Coverage Results" MODIFIED="1646462350255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChungKyu" />
     <SUITE FILE_PATH="coverage/Codingtest_Study$Hindex2.coverage" NAME="Hindex2 Coverage Results" MODIFIED="1645537846751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChungKyu/H-Index" />
+    <SUITE FILE_PATH="coverage/Codingtest_Study$Hindex__1_.coverage" NAME="Hindex (1) Coverage Results" MODIFIED="1646654990353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SangEon/H-index" />
     <SUITE FILE_PATH="coverage/Codingtest_Study$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1645067945725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SangEon" />
     <SUITE FILE_PATH="coverage/Codingtest_Study$K.coverage" NAME="K번째수2 Coverage Results" MODIFIED="1645274536897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChungKyu/K번째수" />
+    <SUITE FILE_PATH="coverage/Codingtest_Study$2.coverage" NAME="주식가격2 Coverage Results" MODIFIED="1646637491393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChungKyu/스택큐/주식가격" />
+    <SUITE FILE_PATH="coverage/Codingtest_Study$__2.coverage" NAME="다리를 지나는 트럭2 Coverage Results" MODIFIED="1646634804838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChungKyu/스택큐/다리를지나는트럭" />
+    <SUITE FILE_PATH="coverage/Codingtest_Study$Hindex.coverage" NAME="Hindex Coverage Results" MODIFIED="1645508309437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChungKyu/H-Index" />
+    <SUITE FILE_PATH="coverage/Codingtest_Study$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1646285647163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChungKyu/대기업기출문제/토스" />
+    <SUITE FILE_PATH="coverage/Codingtest_Study$.coverage" NAME="돌려돌려돌리판 Coverage Results" MODIFIED="1646658351508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChungKyu" />
     <SUITE FILE_PATH="coverage/Codingtest_Study$K3.coverage" NAME="K번째수3 Coverage Results" MODIFIED="1645274785841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChungKyu/K번째수" />
   </component>
 </project>
