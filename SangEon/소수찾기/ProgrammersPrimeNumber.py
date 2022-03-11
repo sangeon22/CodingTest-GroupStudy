@@ -2,6 +2,7 @@ from itertools import permutations
 def solution(numbers):
     answer = []
     num1 = [n for n in numbers]
+    #["1","7"]
     per = []
 
     for i in range(1, len(numbers)+1):

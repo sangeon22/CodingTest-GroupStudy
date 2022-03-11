@@ -8,5 +8,4 @@ def solution(citations):
         if min_num >= i:
             answer = i
             print(i)
-
     return answer;
